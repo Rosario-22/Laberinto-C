@@ -20,7 +20,7 @@ Características principales
 - Laberinto fijo con paredes y caminos definidos.  
 - Trampas que se regeneran de manera aleatoria en cada intento fallido.  
 - Contadores de vidas, tesoros y movimientos.  
-- Entrada (`E`) y salida (`S`) fijas.  
+- Entrada (E) y salida (S) fijas.  
 - Juego 100% por consola, sin dependencias externas.
 
 Cómo compilar y ejecutar
